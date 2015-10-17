@@ -1,0 +1,449 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(../img/07.jpg) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+}
+.section {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.section1 .logo {
+  width: 100%;
+  height: 1.75rem;
+  position: relative;
+  display: none;
+}
+.section1 .logo .logo-img {
+  width: 5.65rem;
+  height: 1.75rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 1.35rem;
+}
+.section1 .cont-box {
+  width: 32rem;
+  height: 22.9rem;
+  background: url(../img/00-big.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin-top: 6.5rem;
+  display: none;
+}
+.section1 .txt-box {
+  width: 32rem;
+  height: 3.25rem;
+  position: relative;
+  margin-top: 2.5rem;
+}
+.section1 .txt-box .boxl {
+  width: 10.5rem;
+  height: 3.25rem;
+  background: url(../img/00-txt_08.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  float: left;
+  margin-left: 4.75rem;
+  display: none;
+}
+.section1 .txt-box .boxr {
+  width: 10.3rem;
+  height: 3.25rem;
+  background: url(../img/00-txt_05.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  float: right;
+  margin-right: 4.75rem;
+  display: none;
+}
+.section1 .txt-title {
+  width: 100%;
+  height: 2.75rem;
+  font-size: 1.8rem;
+  color: #fff;
+  text-align: center;
+  line-height: 2.75rem;
+  margin: 1.25rem auto 1rem;
+  display: none;
+}
+.section1 .txt-h3 {
+  width: 100%;
+  height: 1.25rem;
+  font-size: 0.8rem;
+  color: #fff;
+  text-align: center;
+  line-height: 1.25rem;
+  margin-top: 0.75rem;
+  letter-spacing: 0.1rem;
+  display: none;
+}
+.section2 .se2-cont {
+  width: 32rem;
+  height: 100%;
+  background: url(../img/01bg.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  overflow: hidden;
+  display: none;
+}
+.section2 .se2-cont .cont2-picbox {
+  width: 15.95rem;
+  height: 18.45rem;
+  background: url(../img/01-txt_03.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 8rem auto 0.1rem;
+  display: none;
+}
+.section2 .se2-cont .cont2-pic-small {
+  width: 15.95rem;
+  height: 4.65rem;
+  background: url(../img/01-txt_05.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 0 auto 3rem;
+  display: none;
+}
+.section2 .se2-cont .h3box {
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 1.5rem;
+}
+.section2 .se2-cont .h3box .txt-h3 {
+  font-size: 1.5rem;
+  height: 1.9rem;
+  line-height: 1.9rem;
+  display: none;
+}
+.section2 .se2-cont .h3box .e-txt {
+  font-size: 0.8rem;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  display: none;
+}
+.section2 .se2-cont .ex-year {
+  width: 100%;
+  height: auto;
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 0.5rem;
+  display: none;
+}
+.section3 .se2-cont {
+  width: 32rem;
+  height: 100%;
+  background: url(../img/02bg.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  overflow: hidden;
+  display: none;
+}
+.section3 .se2-cont .cont2-picbox {
+  width: 15.75rem;
+  height: 16.05rem;
+  background: url(../img/02-txt_03.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 8rem auto 1rem;
+  display: none;
+}
+.section3 .se2-cont .cont2-pic-small {
+  width: 15.75rem;
+  height: 4rem;
+  background: url(../img/02-txt_06.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 0 auto 3.5rem;
+  display: none;
+}
+.section3 .se2-cont .h3box {
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 1.5rem;
+}
+.section3 .se2-cont .h3box .txt-h3 {
+  font-size: 1.5rem;
+  height: 1.9rem;
+  line-height: 1.9rem;
+  display: none;
+}
+.section3 .se2-cont .h3box .e-txt {
+  font-size: 0.8rem;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  display: none;
+}
+.section3 .se2-cont .ex-year {
+  width: 100%;
+  height: auto;
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 0.75rem;
+  display: none;
+}
+.section4 .se2-cont {
+  width: 32rem;
+  height: 100%;
+  background: url(../img/03bg.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  overflow: hidden;
+  display: none;
+}
+.section4 .se2-cont .cont2-picbox {
+  width: 15.15rem;
+  height: 15rem;
+  background: url(../img/03-txt-pic_03.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 11rem auto 1.5rem;
+  display: none;
+}
+.section4 .se2-cont .cont2-pic-small {
+  width: 15.15rem;
+  height: 3.55rem;
+  background: url(../img/03-txt-pic_06.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 0 auto 5.5rem;
+  display: none;
+}
+.section4 .se2-cont .h3box {
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+.section4 .se2-cont .h3box .e-txt {
+  font-size: 0.8rem;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  margin-top: 0.25rem;
+  display: none;
+}
+.section4 .se2-cont .ex-year {
+  width: 100%;
+  height: auto;
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 0.25rem;
+  display: none;
+}
+.section5 .se2-cont {
+  width: 32rem;
+  height: 100%;
+  background: url(../img/04bg.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  overflow: hidden;
+  display: none;
+}
+.section5 .se2-cont .cont2-picbox {
+  width: 15.35rem;
+  height: 15.45rem;
+  background: url(../img/04-txt_03.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 11.5rem auto 1.5rem;
+  display: none;
+}
+.section5 .se2-cont .cont2-pic-small {
+  width: 15.35rem;
+  height: 3.5rem;
+  background: url(../img/04-txt_06.png) center no-repeat;
+  background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  margin: 0 auto 5.5rem;
+  display: none;
+}
+.section5 .se2-cont .h3box {
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+.section5 .se2-cont .h3box .e-txt {
+  font-size: 1.05rem;
+  height: 1.5rem;
+  line-height: 1.35rem;
+  margin-top: 0.25rem;
+  display: none;
+}
+.section5 .se2-cont .ex-year {
+  width: 100%;
+  height: auto;
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 0.25rem;
+  display: none;
+}
+.section6 .topbox {
+  width: 32rem;
+  height: 9.45rem;
+  margin: 5.5rem auto 0.5rem;
+}
+.section6 .topbox .topbox-l {
+  width: 9.45rem;
+  height: 11.9rem;
+  float: left;
+  margin-left: 3rem;
+  display: none;
+}
+.section6 .topbox .topbox-l img {
+  display: block;
+  width: 9.45rem;
+  height: 9.45rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.section6 .topbox .topbox-l .name {
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  margin-top: 1rem;
+}
+.section6 .topbox .topbox-r {
+  width: 9.45rem;
+  height: 11.9rem;
+  float: right;
+  margin-right: 3rem;
+  display: none;
+}
+.section6 .topbox .topbox-r img {
+  display: block;
+  width: 9.45rem;
+  height: 9.45rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.section6 .topbox .topbox-r .name {
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  margin-top: 1rem;
+}
+.section6 .midd-box {
+  width: 9.45rem;
+  height: 9.45rem;
+  margin: 0 auto;
+}
+.section6 .midd-box img {
+  width: 9.45rem;
+  height: 9.45rem;
+  display: block;
+  overflow: hidden;
+  border-radius: 50%;
+  display: none;
+}
+.section6 .bottombox {
+  width: 32rem;
+  height: auto;
+  margin: 3rem auto 2.5rem;
+  overflow: hidden;
+}
+.section6 .bottombox .topbox-l {
+  width: 9.45rem;
+  height: 11.9rem;
+  float: left;
+  margin-left: 3rem;
+  display: none;
+}
+.section6 .bottombox .topbox-l img {
+  display: block;
+  width: 9.45rem;
+  height: 9.45rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.section6 .bottombox .topbox-l .name {
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  margin-top: 1rem;
+}
+.section6 .bottombox .topbox-r {
+  width: 9.45rem;
+  height: 11.9rem;
+  float: right;
+  margin-right: 3rem;
+  display: none;
+}
+.section6 .bottombox .topbox-r img {
+  display: block;
+  width: 9.45rem;
+  height: 9.45rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.section6 .bottombox .topbox-r .name {
+  font-size: 1.2rem;
+  color: #fff;
+  text-align: center;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  margin-top: 1rem;
+}
+.section6 .heavy-attack {
+  width: 100%;
+  height: 2.5rem;
+  font-size: 2.25rem;
+  text-align: center;
+  line-height: 2.5rem;
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 0.5rem;
+  display: none;
+}
+.section7 .midbox {
+  width: 25rem;
+  height: auto;
+  color: #fff;
+  margin: 17rem auto 9rem;
+}
+.section7 .midbox .addr,
+.section7 .midbox .addr2 {
+  width: 100%;
+  height: 2rem;
+  font-size: 1.8rem;
+  text-align: center;
+  margin: 0.5rem auto 0;
+  display: none;
+}
+.section7 .midbox .time {
+  width: 100%;
+  height: 2rem;
+  font-size: 1.8rem;
+  text-align: center;
+  margin: 1.5rem auto 0;
+  display: none;
+}
+.section7 .invitation {
+  width: 100%;
+  height: 3rem;
+  line-height: 2.8rem;
+  color: #fff;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  display: none;
+}
